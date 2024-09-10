@@ -12,7 +12,7 @@ Welcome to the **Introduction to Data Analytics** repository! This repository is
 3. [Tools Covered](#tools-covered)
 4. [Exercises](#exercises)
     - [Exercise 1: Basic Data Cleaning with Python](#exercise-1-basic-data-cleaning-with-python)
-    - [Exercise 2: Data Visualization with Tableau Public](#exercise-2-data-visualization-with-tableau-public)
+    - [Exercise 2: Pandas Exercise](#exercise-2-)
 5. [Additional Resources](#additional-resources)
 6. [Contributing](#contributing)
 7. [License](#license)
@@ -32,6 +32,7 @@ This course provides an introduction to data analytics, focusing on key concepts
 - Real-World Applications (Marketing, Finance, Healthcare)
 - Benefits of Data Analytics in Decision-Making
 
+
 ### **2. Key Skills for Data Analytics**
 - Data Cleaning and Preparation
 - Statistical Analysis
@@ -45,7 +46,7 @@ This course provides an introduction to data analytics, focusing on key concepts
 - **Tableau Public:** For creating and sharing data visualizations.
 
 ### **4. Hands-On Practice**
-- Students will complete exercises using tools such as Python and Tableau.
+- Students will complete exercises using tools such as Python.
 
 ---
 
@@ -61,20 +62,20 @@ This course provides an introduction to data analytics, focusing on key concepts
 
 ### **Exercise 1: Basic Data Cleaning with Python**
 - **Objective:** Learn how to clean and manipulate data using Python (pandas).
-- **Instructions:** [Link to Jupyter Notebook](link-to-exercise-1)
+- **Instructions:** [Link to Jupyter Notebook](0-Introduction/CRISP-DM.ipynb)
 - **Tool:** Google Colab
-- **Example Dataset:** `sales_data.csv`
+- **Example Dataset:** `online sample data`
 
-### **Exercise 2: Data Visualization with Tableau Public**
-- **Objective:** Create visualizations to gain insights from a dataset.
-- **Instructions:** [Link to Tableau Exercise](link-to-exercise-2)
-- **Tool:** Tableau Public
-- **Example Dataset:** `sales_performance.xlsx`
+### **Exercise 2: Practice II**
+- **Objective:** Practice with Colab
+- **Instructions:** [Link to Jupyter Notebook Exercise](0-Introduction/ColabPractice.ipynb)
+- **Tool:** TGoogle Colab
+- **Example Dataset:** `sample_-_superstore.xls.xlsx`
 
 ---
 
 ## **Additional Resources**
-- [Introduction to Data Analytics](https://www.example.com)
+- [10 minutes to Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
 - [Python for Data Analysis](https://pandas.pydata.org/)
 - [Tableau Public Gallery](https://public.tableau.com/en-us/gallery/)
 - [SQL Basics](https://www.w3schools.com/sql/)
